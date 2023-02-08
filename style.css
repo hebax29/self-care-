@@ -39,12 +39,12 @@ p {
 
 
 .firstp {
-    text-align: justify;
+    text-align: center;
 }
 
 li {
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
     list-style: none;
     word-spacing: normal;
 
@@ -89,7 +89,7 @@ li {
     background-color: black;
     color: white;
     min-height: 500px;
-    text-align: justify;
+    text-align: center;
 
 
 }
@@ -100,7 +100,7 @@ li {
     min-height: 300px;
     text-align: center;
     padding: 50px 80px;
-    text-align: justify;
+   
 }
 
 
