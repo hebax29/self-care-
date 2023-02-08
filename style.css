@@ -1,0 +1,113 @@
+html,
+body {
+    height: 100%;
+    font-size: 15px;
+    color: black;
+    margin: 0;
+}
+
+
+
+
+
+.pimg1 {
+    background-image: url(https://img.freepik.com/free-photo/beautiful-shot-mountains-trees-covered-snow-fog_181624-17590.jpg);
+    min-height: 500px;
+}
+
+
+
+.pimg1 {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+h2 {
+    color: #93BFCF;
+    font-family: 'Montserrat', sans-serif;
+    ;
+    text-align: center;
+    ;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.firstp {
+    text-align: justify;
+}
+
+li {
+    font-size: 20px;
+    text-align: justify;
+    list-style: none;
+    word-spacing: normal;
+
+
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    font-family: 'Roboto Slab', serif;
+    width: 100%;
+    text-align: center;
+    font-size: 38px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+}
+
+.text-bg {
+    background-color: #93BFCF;
+    color: white;
+    padding: 20px;
+    font-size: 15px;
+}
+
+
+.section {
+    padding: 50px 80px;
+    text-align: center;
+    min-height: 300px;
+}
+
+
+.section-1 {
+    background-color: white;
+
+
+}
+
+
+.section-3 {
+    background-color: black;
+    color: white;
+    min-height: 500px;
+    text-align: justify;
+
+
+}
+
+.section-4 {
+    background-color: white;
+    color: black;
+    min-height: 300px;
+    text-align: center;
+    padding: 50px 80px;
+    text-align: justify;
+}
+
+
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    background-color: #93BFCF;
+}
